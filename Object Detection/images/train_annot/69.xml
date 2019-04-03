@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_img</folder>
+	<filename>69.JPG</filename>
+	<path>D:/Raj/Github_Repo/Deep Learning/Object Detection/keras-yolo2/images/train_img/69.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1792</width>
+		<height>1312</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lplate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>702</xmin>
+			<ymin>544</ymin>
+			<xmax>995</xmax>
+			<ymax>624</ymax>
+		</bndbox>
+	</object>
+</annotation>
